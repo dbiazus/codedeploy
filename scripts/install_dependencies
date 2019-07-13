@@ -1,1 +1,1 @@
-yum install httpd php
+sudo yum install httpd php
