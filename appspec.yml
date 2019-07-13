@@ -1,10 +1,10 @@
 version: 0.0
 os: linux
 files:
-  - source: /index.php
-    destination: /var/www/html/index.php
-  - source: /health.html
-    destination: /var/www/html/health.html
+  - source: /
+    destination: /var/www/html/
+    type:
+      - directory
 hooks:
   AfterInstall:
     - location: scripts/install_dependencies
