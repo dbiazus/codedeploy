@@ -3,6 +3,8 @@ os: linux
 files:
   - source: /index.php
     destination: /var/www/html/index.php
+  - source: /health.html
+    destination: /var/www/html/health.html
 hooks:
   AfterInstall:
     - location: scripts/install_dependencies
