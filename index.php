@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>PHP Test V7</title>
+  <title>PHP Test V8</title>
  </head>
  <body>
 <?php phpinfo(); ?> 
