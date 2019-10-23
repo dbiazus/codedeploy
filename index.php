@@ -1,9 +1,9 @@
 <html>
  <head>
-  <title>PHP Test V33</title>
+  <title>PHP Test V34</title>
  </head>
  <body>
-<h1>PHP Test V33</h1>
+<h1>PHP Test V34</h1>
 <?php phpinfo(); ?> 
  </body>
 </html>
